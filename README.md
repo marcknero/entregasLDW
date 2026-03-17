@@ -1,2 +1,13 @@
-# entregasLDW
-Repositorio para entrega das atividades propostas pelo professor Neymar, em Laboratório de Desenvolvimento Web II
+# Entregas LDW
+
+Repositório destinado ao envio das atividades da disciplina de Laboratório de Desenvolvimento Web II, ministrada pelo professor Neymar, no curso de Desenvolvimento de Software Multiplataforma da FATEC-Jacareí.
+
+## Atividades
+
+| Nº | Atividade | Link |
+| --- | --- | --- |
+| 1 | Atividade 2 | [Acessar pasta](./atividade2/) |
+
+## Organização
+
+Cada atividade é separada em sua própria pasta para facilitar a navegação, a correção e o acompanhamento das entregas ao longo da disciplina.
