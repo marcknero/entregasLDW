@@ -7,6 +7,7 @@ Repositório destinado ao envio das atividades da disciplina de Laboratório de 
 | Nº | Atividade | Link |
 | --- | --- | --- |
 | 1 | Atividade 2 | [Acessar pasta](./atividade2/) |
+| 2 | Atividade 3 | [Acessar pasta](./atividade3/) |
 
 ## Organização
 
