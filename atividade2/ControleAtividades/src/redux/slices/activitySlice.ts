@@ -39,7 +39,7 @@ const activitySlice = createSlice({
         },
         removeAllActivities: (state) => {
             state.activities = state.activities.filter(activity => !activity.completed);
-        },
+        }
     },
 });
 
